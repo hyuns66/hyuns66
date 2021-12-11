@@ -1,4 +1,4 @@
-### Hi there 👋a
+### Hi there 👋
 
 <!--
 **hyuns66/hyuns66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
