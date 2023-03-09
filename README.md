@@ -1,4 +1,4 @@
-### 안녕하세요, 알고싶은 것이 많은 개발자 정현석 입니다 👋
+### 안녕하세요, 알고싶은 것이 많은 개발자 정현석 입니다 👋 
 
 <!--
 **hyuns66/hyuns66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
