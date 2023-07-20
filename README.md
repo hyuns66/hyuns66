@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](https://solved.ac/hyuns6677)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://github.com/renovatio_hyuns/velog-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)
-https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github
