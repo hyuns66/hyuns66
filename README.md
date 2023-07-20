@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuns66&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![github stats](https://github-readme-stats.vercel.app/api?username=hyuns66&show_icons=true&hide_border=true)](https://github.com/hyuns66)
+[![github stats](https://github-readme-stats.vercel.app/api?username=hyuns66&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/hyuns66)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](https://solved.ac/hyuns6677)
+    
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://github.com/renovatio_hyuns/velog-readme-stats)
