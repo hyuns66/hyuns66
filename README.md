@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](https://solved.ac/hyuns6677)  
 
-### 운영중인 블로그 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=velog_stats)](https://velog.io/@renovatio_hyuns)
+**운영중인 블로그** [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=velog_stats)](https://velog.io/@renovatio_hyuns)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
