@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuns66&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-# 안녕하세요, 유저친화적으로 일하고싶은 개발자 정현석 입니다 👋
+# 안녕하세요, 인공지능에 가치를 느끼는 안드로이드 개발자 정현석입니다. 👋
 다양한 문제상황에서 해결사로 활동할 수 있는 엔지니어가 되는것을 목표로 공부하고 있습니다.  
 주 관심분야는 안드로이드 네이티브이며  
 현재는 AI, ComputerVision 을 공부중입니다.   
