@@ -26,14 +26,14 @@
         <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     </td>
     <td style="width: 50%">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" width="300">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" style="width: 100%;">
       </td>
   </tr>
 </table>
 
-
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](`https://solved.ac/hyuns6677`)  
-
+-->
 <!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=hyuns66&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/hyuns66)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
