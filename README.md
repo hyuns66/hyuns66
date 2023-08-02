@@ -4,6 +4,8 @@
 주 관심분야는 안드로이드 네이티브이며  
 현재는 AI, ComputerVision 을 공부중입니다.   
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## ⚔ SKILL ⚔
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 10px;">
@@ -24,7 +26,6 @@
   <div style="flex: 1; padding-left: 10px;">
     
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필">
-</a>
     
   </div>
 </div>
@@ -41,4 +42,3 @@
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
