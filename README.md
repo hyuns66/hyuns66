@@ -11,7 +11,7 @@
 ## ⚔ SKILL ⚔
 <table style="table-layout: fixed">
   <tr>
-    <td style="width: 50%">
+    <td>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/java-F7DF1E?style=flat&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     </td>
-    <td style="width: 50%">
+    <td style="width: 400px;">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" style="width: 100%;">
       </td>
   </tr>
