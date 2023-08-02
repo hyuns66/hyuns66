@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat&logo=openCV&logoColor=white"/>
     </td>
     <td style="width: 50%">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" width="300">
       </td>
   </tr>
 </table>
