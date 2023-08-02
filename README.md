@@ -31,9 +31,9 @@
   </tr>
 </table>
 
-<!--
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](`https://solved.ac/hyuns6677`)  
--->
+
 <!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=hyuns66&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/hyuns66)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
