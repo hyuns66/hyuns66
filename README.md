@@ -24,9 +24,7 @@
     
   </div>
   <div style="flex: 1; padding-left: 10px;">
-    
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필">
-    
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필">
   </div>
 </div>
 
