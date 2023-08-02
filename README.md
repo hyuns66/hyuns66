@@ -9,7 +9,7 @@
 
 
 ## ⚔ SKILL ⚔
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
     <td style="width: 50%; padding-right: 20px;">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
