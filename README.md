@@ -5,6 +5,7 @@
 현재는 AI, ComputerVision 을 공부중입니다.   
 </br>
 </br>
+## 📊 Github Stats 📊
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
@@ -39,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
 -->
 
-### 운영중인 블로그 (Velog Stats)
+## 운영중인 블로그 (Velog Stats)
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
 
