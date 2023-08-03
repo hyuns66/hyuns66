@@ -13,7 +13,9 @@
 <table style="table-layout: fixed">
   <tr>
     <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" style="width: 100%;">
+      <a href="https://solved.ac/profile/hyuns6677">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677" alt="Solved.ac 프로필" style="width: 100%;">
+      </a>
     </td>
     <td style="width: 400px;">
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
