@@ -41,9 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
 -->
 
-## 운영중인 블로그 (Velog Stats)
+## 운영중인 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=renovatio&theme=default)](https://renovatio-dev-hyuns.tistory.com)  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=renovatio&postId=11&theme=default)](https://github.com/loosie/github-readme-tistory-card)  
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
 
