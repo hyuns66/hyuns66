@@ -42,7 +42,7 @@
 -->
 
 ## 운영중인 블로그 (Velog Stats)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={default}&theme={default})](https://renovatio-dev-hyuns.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={renovatio}&theme={default})](https://renovatio-dev-hyuns.tistory.com)
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
 
