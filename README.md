@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyuns66&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 인공지능에 가치를 느끼는 안드로이드 개발자 정현석입니다. 👋
 주 관심분야는 안드로이드 네이티브이며  
 현재는 AI, ComputerVision 을 공부중입니다.   
@@ -33,16 +33,21 @@
   </tr>
 </table>
 
-<!--
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuns6677)](`https://solved.ac/hyuns6677`)  
--->
-<!--
-[![github stats](https://github-readme-stats.vercel.app/api?username=hyuns66&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/hyuns66)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuns66&layout=compact)](https://github.com/hyuns66)
--->
+
 
 ## 운영중인 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=renovatio&theme=default)](https://renovatio-dev-hyuns.tistory.com)  
+ - [8/13 - [자료구조] 트라이(Trie)](https://renovatio-dev-hyuns.tistory.com/13)
+  
+ - [6/17 - [ScratchRevealCard] 3. Modifier의 그래픽 수정자 - drawScope, graphicsLayer](https://renovatio-dev-hyuns.tistory.com/12)
+  
+ - [5/30 - [ScratchRevealCard] 2. 그림판 구현으로 기술적 검증을 해보자.](https://renovatio-dev-hyuns.tistory.com/11)
+  
+ - [5/15 - [ScratchRevealCard] 1. 라이브러리 개발할 때 의존성 세팅방법 (implementation vs api)](https://renovatio-dev-hyuns.tistory.com/10)
+  
+ - [5/7 - [Hilt 들고 MVVM 정복] 4. Repository, 그리고 DIP](https://renovatio-dev-hyuns.tistory.com/9)
+  
+<!--
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
-
+-->
