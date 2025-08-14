@@ -1,12 +1,9 @@
 
-# 인공지능에 가치를 느끼는 안드로이드 개발자 정현석입니다. 👋
-주 관심분야는 안드로이드 네이티브이며  
-현재는 AI, ComputerVision 을 공부중입니다.   
+# 안녕하세요<br>최적화를 고민하는 안드로이드 개발자<br>정현석 입니다.  
+안정적인 서비스 개발은 결국 유저 데이터와 디바이스 자원 활용에 달려 있습니다.  
+최적화에 대한 끊임없는 고민으로 서비스에 기여하고 싶습니다.
 </br>
 </br>
-## 📊 Github Stats 📊
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ## ⚔ SKILL ⚔
 <table style="table-layout: fixed">
@@ -51,3 +48,7 @@
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=renovatio_hyuns&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=renovatio_hyuns)
 -->
+
+## 📊 Github Stats 📊
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
