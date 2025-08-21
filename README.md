@@ -34,6 +34,8 @@
 
 ## 운영중인 블로그
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=renovatio&theme=default)](https://renovatio-dev-hyuns.tistory.com)  
+ - [2025-8-20 : 네트워크 요청을 안전하게 해보자 (feat. Template Method Pattern)](https://renovatio-dev-hyuns.tistory.com/14)
+  
  - [2025-8-13 : [자료구조] 트라이(Trie)](https://renovatio-dev-hyuns.tistory.com/13)
   
  - [2025-6-17 : [ScratchRevealCard] 3. Modifier의 그래픽 수정자 - drawScope, graphicsLayer](https://renovatio-dev-hyuns.tistory.com/12)
@@ -41,8 +43,6 @@
  - [2025-5-30 : [ScratchRevealCard] 2. 그림판 구현으로 기술적 검증을 해보자.](https://renovatio-dev-hyuns.tistory.com/11)
   
  - [2025-5-15 : [ScratchRevealCard] 1. 라이브러리 개발할 때 의존성 세팅방법 (implementation vs api)](https://renovatio-dev-hyuns.tistory.com/10)
-  
- - [2025-5-7 : [Hilt 들고 MVVM 정복] 4. Repository, 그리고 DIP](https://renovatio-dev-hyuns.tistory.com/9)
   
 <!--
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?color=dark&name=renovatio_hyuns)](https://velog.io/@renovatio_hyuns)  
